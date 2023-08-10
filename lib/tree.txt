@@ -1,0 +1,27 @@
+Folder PATH listing
+Volume serial number is DE40-7924
+C:.
+³   home.dart
+³   main.dart
+³   tree.txt
+³   
+ÃÄÄÄcomponents
+³       grid_card.dart
+³       
+ÃÄÄÄdata
+³       dummy_data_list.dart
+³       
+ÃÄÄÄlogic
+³       brand_name_string.dart
+³       get_list.dart
+³       
+ÃÄÄÄmodels
+³       product.dart
+³       review.dart
+³       shoes_brend.dart
+³       
+ÀÄÄÄscreens
+        add_product.dart
+        default_screen.dart
+        home_screen.dart
+        
