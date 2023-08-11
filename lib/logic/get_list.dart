@@ -1,5 +1,5 @@
 import 'package:jacksiltd/data/fakedata.dart';
-import 'package:jacksiltd/data/insert_products.dart';
+import 'package:jacksiltd/data/database_products.dart';
 import 'package:jacksiltd/models/product.dart';
 import 'package:jacksiltd/models/categories.dart';
 

@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:jacksiltd/data/insert_products.dart';
+import 'package:jacksiltd/data/database_products.dart';
 import 'package:jacksiltd/designSystem.dart';
 import 'package:jacksiltd/models/product.dart';
 

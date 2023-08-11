@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:jacksiltd/components/add_action.dart';
-import 'package:jacksiltd/data/insert_products.dart';
+import 'package:jacksiltd/data/database_products.dart';
 import 'package:jacksiltd/designSystem.dart';
 import 'package:jacksiltd/logic/brand_name_string.dart';
 import 'package:jacksiltd/models/categories.dart';
